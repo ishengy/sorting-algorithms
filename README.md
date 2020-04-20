@@ -25,4 +25,4 @@ There are five classes used to sort with natural merge sort, and the four quicks
 - The QuickInsertionSort50 class is the driver that executes the code for the hybrid quicksort/insertion sort for a stopping case of a partition size of 50. It utilizes the same structures as the QuickSortFirstPivot.
 - The QuickInsertionSort100 class is the driver that executes the code for the hybrid quicksort/insertion sort for a stopping case of a partition size of 100. It utilizes the same structures as the QuickSortFirstPivot.
 
-A writeup analyzing each sorting algorithm's runtime for varying sizes of input and initial orders is made available, along with an Excel sheet documenting all 100 runtimes.
+A writeup analyzing each sorting algorithm's runtime for varying sizes of input and initial input order is made available, along with an Excel sheet documenting all 100 runtimes.
